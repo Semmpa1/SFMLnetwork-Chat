@@ -1,9 +1,7 @@
-﻿#include <iostream>
+#include <iostream>
 #include <string>
 #include <thread>
 #include <SFML/Network.hpp>
-//#include <vector>
-//#include <functional>
 
 short port = 6000;
 sf::TcpSocket socket;
